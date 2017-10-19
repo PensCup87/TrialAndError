@@ -1,0 +1,23 @@
+﻿body {
+    background-color:saddlebrown
+}
+
+h1.currentLocations {
+    color: white;
+}
+
+h1.futureLocations {
+    color: white;
+}
+
+h4.nextToOpen {
+    color: gold;
+}
+
+h4.nowOpen{
+    color:lawngreen;
+}
+.navbar {
+            margin-bottom: 50px;
+            border-radius: 0;
+        }
